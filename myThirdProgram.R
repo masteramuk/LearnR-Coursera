@@ -10,3 +10,7 @@ second <- function(x){
 third <- function(x){
   second(x) / myfunction(x)
 }
+
+add2 <- function(x, y){
+  x + y
+}
