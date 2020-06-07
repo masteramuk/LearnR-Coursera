@@ -13,5 +13,5 @@ List of file created during online course of R Programming at Coursera
 7. [https://bookdown.org/](https://bookdown.org/) - Collection of Data Sciences book written using R Markdown
 
 If you like my work - do buy me a coffee :)
-[https://www.buymeacoffee.com/masteramuk](Buy Me A Coffee Please)
+[https://www.buymeacoffee.com/masteramuk](BuyMeACoffee)
 
